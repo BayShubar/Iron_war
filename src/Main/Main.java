@@ -4,6 +4,7 @@ import java.io.Serializable;
 
 import Show.GameWindow;
 import Show.MenuFrame;
+//Duisebay Yerkebulan 1998
 
 public class Main implements Serializable{
 	public static MenuFrame menuFrame=null;
